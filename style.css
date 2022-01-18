@@ -1,0 +1,40 @@
+body {
+    background-image: url('bg.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  #bedroom{
+      font-size: 25px;
+      border-radius: 20px;
+      background-color: white;
+      width: 25%;
+  }
+  .heading{
+      font-size: 35px;
+      font-family: 'Nunito', sans-serif;
+  }
+  #tvndac{
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: white;
+    width: 25%;
+  }
+  #desk{
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: white;
+    width: 25%;
+  }
+  #bottle{
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: white;
+    width: 25%;
+  }
+  #basket{
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: white;
+    width: 25%;
+  }
